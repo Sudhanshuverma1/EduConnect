@@ -1,23 +1,9 @@
 # EduConnect – Smart School Management System
 EduConnect is a **modern, scalable, and responsive School Management System** built with **Next.js 15**, **Clerk Authentication**, **Prisma**, **PostgreSQL**, and **TailwindCSS**. Empower teachers, students, parents, and admins with a unified platform.
 
-<h1></h1>
-## 📸 Screenshots
-
-**Admin Dashboard**  
-![Admin Dashboard](https://via.placeholder.com/800x400.png?text=Admin+Dashboard)
-
-**Student View**  
-![Student View](https://via.placeholder.com/800x400.png?text=Student+View)
-
-**Teacher View**  
-![Teacher View](https://via.placeholder.com/800x400.png?text=Teacher+View)
-
-**Parent View**  
-![Parent View](https://via.placeholder.com/800x400.png?text=Parent+View)
 
 <h1></h1>
-## 🚀 Features
+<h2>🚀 Features</h2
 
 - 🔐 Secure authentication via Clerk
 - 👤 Role-based dashboards: Admin, Teacher, Student, Parent
@@ -30,6 +16,26 @@ EduConnect is a **modern, scalable, and responsive School Management System** bu
 - 📱 Responsive UI using TailwindCSS
 - 💾 PostgreSQL + Prisma ORM integration
 - 🧠 Server actions via Next.js App Router
+<h1></h1>
+<h2>📸 Screenshots</h2>
+
+<h3> Login Page </h3>
+<img width="1916" height="1057" alt="Login Page" src="https://github.com/user-attachments/assets/fbb3b450-6889-4342-b93d-620070ea6897" />
+
+<h3>Admin Dashboard</h3> 
+<img width="1915" height="1061" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/925026da-f963-4bd1-afd3-f8f7719cf514" />
+
+<h3> Student View </h3>
+<img width="1918" height="1063" alt="Student View" src="https://github.com/user-attachments/assets/d3218c7e-5270-41de-927c-b5155244e0ce" />
+
+<h3> Teacher View </h3>  
+<img width="1914" height="1056" alt="Teacher View" src="https://github.com/user-attachments/assets/321fd54c-958f-4c65-94d1-f83d6305526a" />
+
+<h3> Database ER Diagram </h3>
+<img width="1912" height="1058" alt="Image" src="https://github.com/user-attachments/assets/ea8bad12-88f3-4721-ba73-7bc384f3e76a" />
+<img width="1911" height="1046" alt="Image" src="https://github.com/user-attachments/assets/cf345481-33b3-4796-adc1-64e442452535" />
+
+
 <h1></h1>
 
 ## 📂 Folder Structure
@@ -161,12 +167,12 @@ src/lib/actions.ts
 
 For demonstration purposes, use these credentials per dashboard:
 
-| Role       | Username | Password  |
-|------------|----------|-----------|
-| Admin      | admin    | admin     |
-| Teacher    | teacher  | teacher   |
-| Student    | student  | student   |
-| Parent     | parent   | parent    |
+| Role       | Username | Password      |
+|------------|----------|---------------|
+| Admin      | admin    | Blackadam     |
+| Teacher    | teacher  | teacher       |
+| Student    | student  | student       |
+| Parent     | parent   | parent        |
 
 <h3> ⚠️ Please Do Not Delete or Alter Real Data </h3>
 
@@ -208,4 +214,4 @@ Help us improve by reporting bugs or requesting features via Issues or Pull Requ
 <h1></h1>
 
 `Sudhanshu Verma ❤️ `
-<h5> 📫 Contact: [sudhanshuuu01@gmail.com](mailto:sudhanshuuu01@gmail.com) </h5>
+📫 Contact: [sudhanshuuu01@gmail.com](mailto:sudhanshuuu01@gmail.com)
